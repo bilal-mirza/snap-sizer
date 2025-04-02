@@ -49,7 +49,7 @@ Ensure you have the following installed on your system:
    ```
 5. Open your web browser and go to:
    ```
-   http://localhost:3000
+   http://localhost:8080
    ```
 
 ## Contributing
@@ -57,7 +57,8 @@ Contributions are welcome! If you have any suggestions, feel free to open an iss
 
 
 ## Author
-**Mohd Bilal**
+**Mohd Bilal** <br>
+[LinkedIn Profile](https://www.linkedin.com/in/bilalmirza01/)
 
 ---
 _Enhance your image processing workflow with SnapSizer!_
