@@ -72,7 +72,7 @@ const Index = () => {
               <CardContent className="p-8">
                 <div className="flex flex-col items-center text-center mb-6 space-y-2">
                   <ImageIcon className="h-12 w-12 text-primary mb-2 animate-float" />
-                  <h1 className="text-2xl font-semibold tracking-tight">Image Processor</h1>
+                  <h1 className="text-2xl font-semibold tracking-tight">Upload Image</h1>
                   <p className="text-muted-foreground max-w-md">
                     Resize your images to specific file sizes or crop them to exact dimensions.
                   </p>
