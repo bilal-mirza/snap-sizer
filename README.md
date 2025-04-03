@@ -3,7 +3,7 @@
 ## Overview
 SnapSizer is a powerful and easy-to-use image processing tool that allows users to resize and crop images with precision. Whether you need to resize an image based on file size (KB/MB) or crop it to specific dimensions (in inches or cm), SnapSizer provides a seamless experience.
 
-##Demo: 
+## Demo: 
 https://snap-sizer-21zd.vercel.app/
 
 ## Features
